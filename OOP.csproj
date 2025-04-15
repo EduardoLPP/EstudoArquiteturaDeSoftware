@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="1 - POO\03 - Heranca VS Composicao\" />
+    <Folder Include="1 - POO\04 - Interface Vs Implementacao\" />
+    <Folder Include="2 - Modificadores\" />
+    <Folder Include="3 - SOLID\" />
+    <Folder Include="4 - Clean Code\" />
+    <Folder Include="5 - Design Patterns\" />
+  </ItemGroup>
+
 </Project>
