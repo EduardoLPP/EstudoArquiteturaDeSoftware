@@ -17,6 +17,11 @@
             //ETC
         }
 
+        public override void Testar()
+        {
+            //Nova implementação do método de testar para a cafeteira
+        }
+
         public override void Ligar()
         {
            //Verificar recipiente de água
